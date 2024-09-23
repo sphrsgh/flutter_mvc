@@ -1,4 +1,4 @@
-import 'package:flutter_mvc/Features/Counter/counter_model.dart';
+import 'package:flutter_mvc/models/counter_model.dart';
 
 class CounterController {
   // کنترلر به منظور تبادل دیتا بین ویو و مدل است

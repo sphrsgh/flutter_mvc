@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_mvc/Features/Counter/counter_controller.dart';
-import 'package:flutter_mvc/Features/Counter/counter_view.dart';
+import 'package:flutter_mvc/controllers/counter_controller.dart';
+import 'package:flutter_mvc/views/counter_view.dart';
 import 'package:get/get.dart';
 
 void main() {
